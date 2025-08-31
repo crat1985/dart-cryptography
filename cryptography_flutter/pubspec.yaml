@@ -20,7 +20,8 @@ dependencies:
   #
   # Packages by github.com/dint-dev:
   #
-  cryptography_plus: ^2.7.1
+  cryptography_plus:
+    path: ../cryptography
 
   flutter:
     sdk: flutter
